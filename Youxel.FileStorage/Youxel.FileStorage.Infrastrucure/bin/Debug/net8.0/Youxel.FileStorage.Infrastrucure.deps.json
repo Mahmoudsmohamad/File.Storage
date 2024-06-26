@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Youxel.FileStorage.Infrastrucure/1.0.0": {
+        "dependencies": {
+          "Youxel.FileStorage.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Youxel.FileStorage.Infrastrucure.dll": {}
+        }
+      },
+      "Youxel.FileStorage.Domain/1.0.0": {
+        "runtime": {
+          "Youxel.FileStorage.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Youxel.FileStorage.Infrastrucure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Youxel.FileStorage.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

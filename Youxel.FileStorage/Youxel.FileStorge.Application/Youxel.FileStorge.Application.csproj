@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.17" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Youxel.FileStorage.Domain\Youxel.FileStorage.Domain.csproj" />
+    <ProjectReference Include="..\Youxel.FileStorage.Infrastrucure\Youxel.FileStorage.Infrastrucure.csproj" />
+  </ItemGroup>
+
+</Project>

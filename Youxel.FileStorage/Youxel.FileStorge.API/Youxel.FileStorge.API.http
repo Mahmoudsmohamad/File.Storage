@@ -1,0 +1,6 @@
+@Youxel.FileStorge.API_HostAddress = http://localhost:5263
+
+GET {{Youxel.FileStorge.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

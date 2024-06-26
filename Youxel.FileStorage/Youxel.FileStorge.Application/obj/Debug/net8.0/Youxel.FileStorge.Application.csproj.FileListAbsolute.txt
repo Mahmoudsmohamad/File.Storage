@@ -1,0 +1,17 @@
+D:\Interview\Youxel.FileStorage\Youxel.FileStorge.Application\bin\Debug\net8.0\Youxel.FileStorge.Application.deps.json
+D:\Interview\Youxel.FileStorage\Youxel.FileStorge.Application\bin\Debug\net8.0\Youxel.FileStorge.Application.dll
+D:\Interview\Youxel.FileStorage\Youxel.FileStorge.Application\bin\Debug\net8.0\Youxel.FileStorge.Application.pdb
+D:\Interview\Youxel.FileStorage\Youxel.FileStorge.Application\bin\Debug\net8.0\Youxel.FileStorage.Domain.dll
+D:\Interview\Youxel.FileStorage\Youxel.FileStorge.Application\bin\Debug\net8.0\Youxel.FileStorage.Infrastrucure.dll
+D:\Interview\Youxel.FileStorage\Youxel.FileStorge.Application\bin\Debug\net8.0\Youxel.FileStorage.Domain.pdb
+D:\Interview\Youxel.FileStorage\Youxel.FileStorge.Application\bin\Debug\net8.0\Youxel.FileStorage.Infrastrucure.pdb
+D:\Interview\Youxel.FileStorage\Youxel.FileStorge.Application\obj\Debug\net8.0\Youxel.FileStorge.Application.csproj.AssemblyReference.cache
+D:\Interview\Youxel.FileStorage\Youxel.FileStorge.Application\obj\Debug\net8.0\Youxel.FileStorge.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\Youxel.FileStorage\Youxel.FileStorge.Application\obj\Debug\net8.0\Youxel.FileStorge.Application.AssemblyInfoInputs.cache
+D:\Interview\Youxel.FileStorage\Youxel.FileStorge.Application\obj\Debug\net8.0\Youxel.FileStorge.Application.AssemblyInfo.cs
+D:\Interview\Youxel.FileStorage\Youxel.FileStorge.Application\obj\Debug\net8.0\Youxel.FileStorge.Application.csproj.CoreCompileInputs.cache
+D:\Interview\Youxel.FileStorage\Youxel.FileStorge.Application\obj\Debug\net8.0\Youxel.F.10A99F43.Up2Date
+D:\Interview\Youxel.FileStorage\Youxel.FileStorge.Application\obj\Debug\net8.0\Youxel.FileStorge.Application.dll
+D:\Interview\Youxel.FileStorage\Youxel.FileStorge.Application\obj\Debug\net8.0\refint\Youxel.FileStorge.Application.dll
+D:\Interview\Youxel.FileStorage\Youxel.FileStorge.Application\obj\Debug\net8.0\Youxel.FileStorge.Application.pdb
+D:\Interview\Youxel.FileStorage\Youxel.FileStorge.Application\obj\Debug\net8.0\ref\Youxel.FileStorge.Application.dll
